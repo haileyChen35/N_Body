@@ -1,0 +1,3 @@
+Task took 1507 milliseconds.
+Task took 2395 milliseconds.
+Task took 233872 milliseconds.
