@@ -53,3 +53,10 @@ random larger particles system
 
 # how to benchmark 
 
+cd N_Body
+
+make
+
+sbatch script.sh 
+
+output is saved into result.txt
