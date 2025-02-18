@@ -11,11 +11,15 @@ the program will generate output file named solar.tsv
 
 # how to plot multiple PDFs
 
+pip install matplotlib
+
 make plot
 
 PDFs file name: solar.pdf
 
 # how to make an animation GIF 
+
+pip install pdf2image
 
 make animation
 
